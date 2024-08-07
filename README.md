@@ -11,3 +11,4 @@ I've been immersed in the world of programming since I was 12, and I thrive on t
 
 ## Interest to learning:
 - Assembly
+- Kotlin
