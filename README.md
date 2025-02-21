@@ -1,7 +1,7 @@
-## Hi there 👋
+# ✌ Hi, I'm Alice Sofia!
 
-> I'm Sofia, a software developer with a few years of experience.
-I've been immersed in the world of programming since I was 12, and I thrive on the challenge of crafting innovative software that pushes boundaries.
+- I'm a 22 years old self-taught developer from **Rio Grande do Sul, Brazil**.
+- I've been immersed in the world of programming since I was 12, and I thrive on the challenge of crafting innovative software that pushes boundaries.
 
 ## My languages
 - C/C++
@@ -12,3 +12,9 @@ I've been immersed in the world of programming since I was 12, and I thrive on t
 ## Interest to learning:
 - Assembly
 - Kotlin
+
+## My social media
+
+- 🐦 **[Twitter](https://x.com/0x50F14)** *@0x50F14*
+- 🐦 **[Personal Site](0x50714.cloud)** *0x50714.cloud*
+- 🎮 **Discord** *00x50714*
