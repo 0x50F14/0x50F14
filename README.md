@@ -15,6 +15,6 @@
 
 ## My social media
 
-- 🐦 **[Twitter](https://x.com/0x50F14)** *@0x50F14*
-- 🐦 **[Personal Site](0x50714.cloud)** *0x50714.cloud*
-- 🎮 **Discord** *00x50714*
+- **[Twitter](https://x.com/0x50F14)** *@0x50F14*
+- **[Personal Site](0x50714.cloud)** *0x50714.cloud*
+- **Discord** *00x50714*
