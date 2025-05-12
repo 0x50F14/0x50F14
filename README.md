@@ -49,9 +49,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louieaveline&layout=compact&langs_count=8&theme=default&hide_title=true&hide_border=true&card_width=400" />
-</p>
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
