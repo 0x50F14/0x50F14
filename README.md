@@ -49,10 +49,6 @@
 
 ---
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
-
----
-
 <p align="center">
   <em>"Liberdade é pouco. O que eu desejo ainda não tem nome."</em><br>
   — Clarice Lispector
